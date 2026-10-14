@@ -14,9 +14,8 @@ I am interested in learning programming, Artificial Intelligence, Data Science, 
 
 💻 Technical Skills
 
-- Python
+- Basic Python
 - HTML
-- SQL
 - MS Excel
 - Microsoft PowerPoint
 - Basic Computer Skills
