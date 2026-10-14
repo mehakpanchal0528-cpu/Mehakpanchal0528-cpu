@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Mehak 👋
 
+BCA – Artificial Intelligence Student
 
-**mehakpanchal0528-cpu/Mehakpanchal0528-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing BCA in Artificial Intelligence from Gandhi Memorial National College.
 
-Here are some ideas to get you started:
+I am interested in learning programming, Artificial Intelligence, Data Science, and web technologies. I am currently building my technical skills through beginner-level learning and practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Education
 
+- BCA – Artificial Intelligence — Currently Pursuing
+- 12th – Arts — Government Senior Secondary School, Saunta
+- 10th — Government Senior Secondary School, Saunta
+
+💻 Technical Skills
+
+- Python
+- HTML
+- SQL
+- MS Excel
+- Microsoft PowerPoint
+- Basic Computer Skills
+
+🌱 Currently Learning
+
+- Python
+- Artificial Intelligence
+
+💡 Strengths
+
+- Quick Learner
+- Problem Solving
+- Communication Skills
+- Time Management
+- Teamwork
+- Willing to Learn
+
+🎯 Career Goal
+
+To build a career in the field of Artificial Intelligence and Information Technology while continuously improving my technical knowledge and gaining practical experience.
+
+📫 Contact
+
+Email: mehakpanchal0528@gmail.com
+Location: Haryana, India
+
+---
+
+⭐ Thanks for visiting my profile!
